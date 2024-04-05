@@ -1,6 +1,6 @@
 # Ana Maria Zava
 
-### Ola! Eu sou Ana Maria Zava, Publicitária estudante de Analise de desenvolvimento de Sistemas na FATEC BOTUCATU 👋
+### Ola! Eu sou Ana Maria Zava, Publicitária, estudante de Analise de desenvolvimento de Sistemas na FATEC BOTUCATU 👋
 
 ## Conecte-se comigo
 
