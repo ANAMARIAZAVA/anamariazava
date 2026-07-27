@@ -1,6 +1,6 @@
 # Ana Maria Zava
 
-### Ola! Eu sou Ana Maria Zava, estudante de Analise de desenvolvimento de Sistemas na FATEC BOTUCATU 👋
+### Ola! Eu sou Ana Maria Zava, Graduanda em Análise e Desenvolvimento de Sistemas pela FATEC Botucatu | Técnica em Segurança do Trabalho | Especialista em Levantamento de Requisitos, Documentação e Modelagem de Processos (BPMN) | Buscando oportunidade como Analista de Requisitos Júnior ou Analista de Processos Júnior | Transição de carreira com visão estratégica e multidisciplinar.👋
 
 ## Conecte-se comigo
 
