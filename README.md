@@ -64,32 +64,18 @@ Tenho experiência acadêmica com desenvolvimento de sistemas, documentação, l
 
 ## 📌 Projetos em destaque
 
-### 🏊 Detector de Afogamento — TCC
+### 🏊 Detector de Afogamento — TCC e Artigo Acadêmico
 
-Sistema desenvolvido como projeto de conclusão de curso, utilizando **Inteligência Artificial e Visão Computacional** para auxiliar na identificação de situações de risco em piscinas.
+Projeto de conclusão de curso e artigo científico voltado ao uso de **Inteligência Artificial e Visão Computacional** para identificação de situações de risco em piscinas.
 
 **Principais tecnologias utilizadas:**
 
 - Python
-- YOLO
-- Computer Vision
+- YOLO (Visão Computacional)
 - Machine Learning
-- MySQL
 - Google Colab
 
-🔗 [Ver projeto no GitHub](https://github.com/ANAMARIAZAVA/Detector_Afogamento_TCC)
-
----
-
-### 🌐 Projetos Web
-
-Projetos desenvolvidos durante minha formação em ADS, envolvendo desenvolvimento de interfaces, lógica de programação e aplicação de conceitos de desenvolvimento Web.
-
----
-
-### 📱 Projeto Mobile
-
-Projeto acadêmico voltado ao desenvolvimento de uma aplicação mobile, aplicando conceitos de desenvolvimento de sistemas e experiência do usuário.
+🔗 [Ver projeto no GitHub](https://github.com/ANAMARIAZAVA/Drowning-Detection-yolov8)
 
 ---
 
@@ -106,7 +92,7 @@ Estou continuamente desenvolvendo meus conhecimentos nas áreas de:
 - 🗄️ SQL e Banco de Dados
 - ⚙️ Automação com N8N
 - 🤖 Inteligência Artificial
-- 📐 BPMN 2.0 — próximo tema de estudo
+- 📐 BPMN 2.0
 
 ---
 
@@ -123,9 +109,4 @@ Meu objetivo é contribuir com **organização de processos, documentação, lev
 ## 🔗 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamariazava/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANAMARIAZAVA)
-
----
-
-⭐ Este perfil está em constante evolução, assim como minha jornada na tecnologia.
