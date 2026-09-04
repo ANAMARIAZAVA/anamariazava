@@ -1,47 +1,131 @@
-# Ana Maria Zava
+# Olá, eu sou Ana Maria Zava 👋
 
-### Ola! Eu sou Ana Maria Zava, Graduanda em Análise e Desenvolvimento de Sistemas pela FATEC Botucatu | Técnica em Segurança do Trabalho | Especialista em Levantamento de Requisitos, Documentação e Modelagem de Processos (BPMN) | Buscando oportunidade como Analista de Requisitos Júnior ou Analista de Processos Júnior | Transição de carreira com visão estratégica e multidisciplinar.👋
+### Analista de Sistemas | Projetos e Implantação | Suporte Funcional | Processos | Análise de Requisitos
 
-## Conecte-se comigo
+Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e tenho interesse em atuar na interface entre **tecnologia, processos e negócio**.
 
-<div> 
+Tenho experiência acadêmica com desenvolvimento de sistemas, documentação, levantamento e organização de requisitos e projetos de tecnologia. Também possuo conhecimentos em **SQL, desenvolvimento Web e programação** e venho ampliando minha formação em **processos, automação e Inteligência Artificial**.
 
-  
-<a href="https://www.instagram.com/anamariazavaoficial/?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/anamariazava" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 
-## Habilidade
+## 🚀 Sobre mim
 
-<div aling="center">
-   <A href="https://github.com/anamariazava">
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Anamariazava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamariazava&layout=compact&langs_count=7&theme=dracula"/>
-   </div>
-   
+- 🎓 Formação em **Análise e Desenvolvimento de Sistemas**
+- 📋 Interesse em **Análise de Requisitos e Documentação**
+- 🔄 Interesse em **Mapeamento e Melhoria de Processos**
+- 📊 Interesse em **Planejamento, Projetos e Implantação**
+- 🖥️ Interesse em **Suporte Funcional e Análise de Sistemas**
+- 🗄️ Conhecimentos em **SQL e Banco de Dados**
+- 💻 Experiência acadêmica com **desenvolvimento Web e programação**
+- 🤖 Estudos em **Inteligência Artificial**
+- ⚙️ Estudos iniciais em **Automação e N8N**
+- 🧩 Desenvolvimento de projetos acadêmicos e pessoais
 
-   <div style="display: inline_block"><br>
-   <img align="center" alt= Ana-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
- </div>
+---
 
-  </div>
+## 🛠️ Tecnologias e conhecimentos
 
-  
-  ##
+### Desenvolvimento
 
-**ANAMARIAZAVA/anamariazava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+### Dados
 
-- 🔭 I’m currently working on finishing my degree in Systems Analysis and Development.
-- 🌱 I’m currently learning Deep Learning to use in my final course project (TCC).
-- 👯 I’m looking to collaborate on tips for handling limited GPU resources and Google Cloud credits.
-- 🤔 I’m looking for help with finding alternative ways to train models due to lack of GPU access.
-- 💬 Ask me about the challenges I've encountered during my TCC development.
-- 📫 How to reach me: anazavafatec@gmail.com
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Processos e Sistemas
+
+- Análise de Requisitos
+- Documentação de Sistemas
+- Análise de Sistemas
+- Análise de Processos
+- Suporte Funcional
+- Melhoria de Processos
+- Projetos e Implantação
+
+### Automação e Inteligência Artificial
+
+- Inteligência Artificial
+- Estudos em Automação de Processos
+- N8N
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🏊 Detector de Afogamento — TCC
+
+Sistema desenvolvido como projeto de conclusão de curso, utilizando **Inteligência Artificial e Visão Computacional** para auxiliar na identificação de situações de risco em piscinas.
+
+**Principais tecnologias utilizadas:**
+
+- Python
+- YOLO
+- Computer Vision
+- Machine Learning
+- MySQL
+- Google Colab
+
+🔗 [Ver projeto no GitHub](https://github.com/ANAMARIAZAVA/Detector_Afogamento_TCC)
+
+---
+
+### 🌐 Projetos Web
+
+Projetos desenvolvidos durante minha formação em ADS, envolvendo desenvolvimento de interfaces, lógica de programação e aplicação de conceitos de desenvolvimento Web.
+
+---
+
+### 📱 Projeto Mobile
+
+Projeto acadêmico voltado ao desenvolvimento de uma aplicação mobile, aplicando conceitos de desenvolvimento de sistemas e experiência do usuário.
+
+---
+
+## 📚 Atualmente estudando
+
+Estou continuamente desenvolvendo meus conhecimentos nas áreas de:
+
+- 📋 Levantamento e análise de requisitos
+- 📑 Documentação de sistemas
+- 🔄 Análise e melhoria de processos
+- 📊 Planejamento e acompanhamento de projetos
+- 🚀 Implantação de soluções
+- 🖥️ Suporte funcional
+- 🗄️ SQL e Banco de Dados
+- ⚙️ Automação com N8N
+- 🤖 Inteligência Artificial
+- 📐 BPMN 2.0 — próximo tema de estudo
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco oportunidades nas áreas de:
+
+**Projetos e Implantação • Suporte Funcional • Análise de Requisitos • Processos • Planejamento • Análise de Sistemas**
+
+Meu objetivo é contribuir com **organização de processos, documentação, levantamento de necessidades, comunicação entre áreas e implantação de soluções tecnológicas**, conectando as necessidades do negócio às soluções de tecnologia.
+
+---
+
+## 🔗 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamariazava/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANAMARIAZAVA)
+
+---
+
+⭐ Este perfil está em constante evolução, assim como minha jornada na tecnologia.
